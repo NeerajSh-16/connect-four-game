@@ -1,6 +1,6 @@
 {
-  "name": "connect-four-game",
   "homepage": "https://aleksfedotov.github.io/connect-four-game/",
+  "name": "connect-four-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
